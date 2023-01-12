@@ -18,7 +18,7 @@
     <td>
 <div>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=watson-clara&langs_count=5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=watson-clara&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
       </td>
      <td>
