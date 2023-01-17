@@ -1,6 +1,6 @@
 
 
-# ![soft](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=1,2,6,5,0&text=Hi%20there%20👋%20I'm%20Clara!%20&fontSize=40&animation=twinkling)
+# ![soft](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,6,6,6,6&text=Hi%20there%20👋%20I'm%20Clara!%20&fontSize=40&animation=twinkling)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/clarafication/)
 
@@ -74,3 +74,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,6,6,6,6&height=100&section=footer&fontSize=90)
