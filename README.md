@@ -1,9 +1,7 @@
 
 
 # ![soft](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,6,6,6,6&text=Hi%20there%20👋%20I'm%20Clara!%20&fontSize=40&animation=twinkling)
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=rounded-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/clarafication/)
-
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=rounded-square&logoWidth=20&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/clarafication/)
 ### A Little About Me: 
 😄 My pronouns are **she/her**
 
