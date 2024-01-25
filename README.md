@@ -3,15 +3,13 @@
 # ![soft](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,6,6,6,6&text=Hi%20there%20👋%20I'm%20Clara!%20&fontSize=40&animation=twinkling)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=rounded-square&logoWidth=20&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/clarafication/)
 ### A Little About Me: 
-😄 My pronouns are **she/her**
-
-🎓 I am currently pursuing my **Bachelor's in Computer Science** as well as a **Minor in Mathmatics** 
+🎓 At the end of the school year I will be graduating with  my **Bachelor's in Computer Science** as well as a **Minor in Mathmatics** 
 
 👩‍🎓 I am in my **senior year** of university!
 
-🔭 I’m currently working on my senior capstone project! 
+🔭 Last summer I interned with Macqurie Group as a software engineer. 
 
-🌱 My capstone team and I have partnered with [AGBiz-Logic](https://www.agbizlogic.com/index/) to create [AgBizClimate](https://www.agbizlogic.com/about/#climate).
+🌱 For my senior capatone project my team at OSU and I worked with [AGBiz-Logic](https://www.agbizlogic.com/index/) to create [AgBizClimate](https://www.agbizlogic.com/about/#climate).
 
 🗝️An Open-Source projcet I contriubuted to is [Star Cipher](https://github.com/starhound/StarCipher)
 
