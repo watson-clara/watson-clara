@@ -2,16 +2,6 @@
 
 # ![soft](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,6,6,6,6&text=Hi%20there%20👋%20I'm%20Clara!%20&fontSize=40&animation=twinkling)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=rounded-square&logoWidth=20&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/clarafication/)
-### A Little About Me: 
-🎓 At the end of the school year I will be graduating with  my **Bachelor's in Computer Science** as well as a **Minor in Mathmatics** 
-
-👩‍🎓 I am in my **senior year** of university!
-
-🔭 Last summer I interned with Macqurie Group as a software engineer. 
-
-🌱 For my senior capatone project my team at OSU and I worked with [AGBiz-Logic](https://www.agbizlogic.com/index/) to create [AgBizClimate](https://www.agbizlogic.com/about/#climate).
-
-🗝️An Open-Source projcet I contriubuted to is [Star Cipher](https://github.com/starhound/StarCipher)
 
 ### :hammer_and_wrench: What's In My Toolbelt?
 <table>
@@ -55,19 +45,4 @@
   </tr>
 </table>
 
-### 🧠 What sets me apart from other programers? 
-I like to call myself an innovator! Google's definition for innovator is, "a person who introduces new methods, ideas, or products". This describes me perfectly! I am alwalys looking for ways to maximize efficiency with every task I come across. While I take this approach to everything in my life, programming has allowed me to innovate technology and problem solve in new and exciting ways. For example, when I created my [Covid-Test-Bot](https://github.com/watson-clara/Covid-Test-Bot) to search for rapid test appointments at CVS automatically during the height of the pandemic. Or, at my old non-programming job where I used code to automate all my daily redudant tasks like using Python and Selinium to download my reports for me and Google App Script to fill out spreadsheets and send emails. Programming has allowed me to flourish as an innovator and problem solver. I hope to continue bring this energy into all of my future projects. 
-<!--
-
-Here are some ideas to get you started:
-🧠✍️🎨🛡️🖥️💡📚📌📍
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,6,6,6,6&height=100&section=footer&fontSize=90)
